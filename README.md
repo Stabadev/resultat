@@ -1,4 +1,3 @@
-```markdown
 # Simulateur Résultat Élection Législatives 2nd tour 1ère circonscription Haute-Loire
 
 Cette application Streamlit permet de calculer en temps réel le résultat de l'élection législative pour la 1ère circonscription de la Haute-Loire au 2nd tour, selon différents critères d'abstention et de report de voix des électeurs.
@@ -52,5 +51,3 @@ Cliquez sur les liens pour découvrir les programmes des candidats respectifs.
 ## Auteurs
 
 - Alexandre ROGUES- [Stabadev](https://github.com/Stabadev)
-
-```
