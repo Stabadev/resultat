@@ -4,7 +4,7 @@ Cette application Streamlit permet de calculer en temps réel le résultat de l'
 
 ## Fonctionnalités
 
-- **Pourcentage d'abstention des électeurs** : Ajustez les pourcentages d'abstention pour les candidats Celline GACON, Cécile GALLIEN et Electre DRACOS au 1er tour.
+- **Pourcentage d'abstention des électeurs** : Ajustez les pourcentages d'abstention des électeurs des candidats Celline GACON, Cécile GALLIEN et Electre DRACOS au 1er tour.
 - **Report des voix des électeurs** : Déterminez le pourcentage de voix des électeurs de ces mêmes candidats qui se reportent sur Laurent WAUQUIEZ ou Alexandre HEUZEY au 2nd tour.
 - **Résultats en temps réel** : Visualisez en temps réel les résultats de l'élection sous forme de graphique en barres horizontales et de texte conditionnel indiquant le candidat élu.
 
@@ -16,7 +16,7 @@ Cette application Streamlit permet de calculer en temps réel le résultat de l'
 
 ## Déploiement
 
-Cette application est déployée sur [share.streamlit.io](https://share.streamlit.io) et peut être accédée via le lien fourni par Streamlit Sharing.
+Cette application est déployée sur [resultat-circo1-hauteloire.streamlit.app](https://resultat-circo1-hauteloire.streamlit.app/) et peut être accédée via le lien.
 
 ## Installation locale
 
